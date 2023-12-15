@@ -67,11 +67,11 @@ nav a:hover {
     display: inline-block;
     background-color: white;
     border: 5px solid green;
-    border-radius: 5px;
+    border-radius: 0px;
     color: darkred;
-    font-size: 2em;
-    padding: 20px;
-    margin: 10px;
+    font-size: 75%;
+    padding: 2px;
+    margin: 5px;
 }
 
 table {
